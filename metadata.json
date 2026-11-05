@@ -1,0 +1,8 @@
+{
+  "name": "OmniBrand Logo & Motion Studio",
+  "description": "Design high-resolution company logos with Gemini 3 Pro and animate them into cinematic videos with Gemini Omni Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
